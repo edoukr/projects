@@ -1,0 +1,2 @@
+start - Say hi!
+help - Use if the server is unreachable.
